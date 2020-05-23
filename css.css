@@ -7,6 +7,27 @@ and open the template in the editor.
     Created on : 22/05/2020, 09:13:09 AM
     Author     : JR
 */
+.centro{ margin: 0 auto;}
+#contacto{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding: 5%;
+    background: rgba(60,4,16,0.95);
+    z-index: 100;
+    text-align: right;
+    display: none;
+}
+#contacto>button{
+    background: none;
+    color: white;
+    display: inline-block;
+    text-align: right;
+    font-size: 3em;
+    border: none;
+}
 #inner-banner {
     background-image: url(https://www.utp.edu.pe/sites/default/files/banner_1.png) !important;
     background-repeat: no-repeat !important;
