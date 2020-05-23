@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/05/2020, 09:13:09 AM
+    Author     : JR
+*/
+#inner-banner {
+    background-image: url(https://www.utp.edu.pe/sites/default/files/banner_1.png) !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-attachment: scroll !important;
+    height: 20em;
+}
+#inner-bannere {
+    background-image: url(https://www.utp.edu.pe/sites/default/files/portal_estudiantes.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-attachment: scroll !important;
+     height: 20em;
+}
+#inner-bannerf {
+       background-image: url(https://www.utp.edu.pe/sites/default/files/banner_padres_14_09.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: scroll;
+    color: white;
+     height: 20em;
+}
+.fondo-img{
+    height: 40em;
+   background-size: cover;
+}
+.img-pregr{
+    width: 30em;
+}
+.fondo-img>div{
+    background: rgba(10,10,10,0.8);
+    padding-top: 20%;
+    width: 100%;
+    height: 100%;
+}
+.fondo-a{
+    background:#B50D30;
+}
+.fondo-b{
+    background:#3E9D85;
+}
+.color-b{
+    color:#B50D30;
+}
+.menu-de a{
+    color: white!important;
+    font-size: 1.2em;
+}
+.menu-de a:hover{
+    background: #871725;
+}
+.colo-a{
+    color: white!important;
+}
+.logo{
+    height: 4em;
+}
+.navbar-toggler{
+    color: white;
+    font-size: 2em;
+    border: 1px solid white!important;
+}
+.redes a{
+    color: white;
+    font-size: 2em;
+    text-decoration: none;
+}
+.contacto i{
+    color: white;
+    font-size: 1.8em;
+    text-decoration: none;
+    padding-right: 1em;
+}
+.intercop{
+    font-size: 1.6em;
+    color: white
+}
+.img-grupo>img{
+    width: 10em;
+}
+.enlace>a{
+    color: white;
+}
+
